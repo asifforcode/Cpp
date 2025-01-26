@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/asif1/Desktop/project/demo",
-      "program": "c:/Users/asif1/Desktop/project/demo/build/Debug/outDebug",
+      "cwd": "c:/Users/asif1/Desktop/project/client",
+      "program": "c:/Users/asif1/Desktop/project/client/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
