@@ -9,6 +9,10 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+
+  "engines": {
+    "node": "16.x"
+  },
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
