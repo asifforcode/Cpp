@@ -7,14 +7,24 @@ Search Types: The search allows filtering by different types of questions, such 
 The results are paginated to ensure users receive a manageable number of items at a time.
 Question Details:
 
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/c05e2025-0fe7-4b60-8be1-337c7fabf54d" />
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/27a0046a-72ce-4c72-80b4-39ef859cd2bf" />
+
+
+
 When a user selects a question, they can view detailed information such as options (for MCQs), blocks (for Anagrams), and the solution.
 For Anagram questions, users are presented with shuffled blocks of text and tasked with arranging them to form the correct answer.
 Anagram Game:
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/41683ca1-dde2-4b34-9ecf-87001596654d" />
 
 Anagrams (Word/Sentence types) are displayed as blocks that users can select and rearrange.
 After arranging the blocks, users can check if their arrangement matches the correct solution.
 Feedback is provided on whether the user's arrangement is correct or incorrect.
 Pagination and Filtering:
+
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/6dd9905e-a05a-463b-887e-286e466ddb58" />
 
 The system supports pagination for large question sets.
 Filters for question types, difficulty levels, and other attributes can be applied to refine search results.
